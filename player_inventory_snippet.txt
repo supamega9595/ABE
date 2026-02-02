@@ -1,0 +1,96 @@
+      1: 1
+      2: 15
+    }
+    6: 25937
+    9: 2
+  }
+}
+4 {
+  1: "player_inventory"
+  2 {
+    1: "story_shop"
+    2: 1
+    3: 1
+  }
+  2 {
+    1: "story_mailbox"
+    2: 1
+    3: 1
+  }
+  2 {
+    1: "comic_cutscene_01"
+    2: 1
+    3: 1
+  }
+  2 {
+    1: "unlock_rage"
+    2: 1
+    3: 1
+    5: 1
+  }
+  2 {
+    1: "unlock_hide_turns"
+    2: 1
+    3: 1
+    5: 1
+  }
+  2 {
+    1: "unlock_gloden_pig_rage"
+    2: 1
+    3: 1
+    5: 1
+  }
+  2 {
+    1: "unlock_sponsored_rewards"
+    2: 1
+    3: 1
+    5: 1
+  }
+  2 {
+    1: "unlock_xpromo"
+    2: 1
+    3: 1
+    5: 1
+  }
+  2 {
+    1: "addbird_yellowbird"
+    2: 1
+    3: 1
+    5: 1
+  }
+  2 {
+    1: "unlock_bps"
+    2: 1
+    3: 1
+    5: 1
+  }
+  3 {
+    1: "experience"
+    2: 1
+    3: 45
+  }
+  3 {
+    1: "gold"
+    2: 1
+    3: 195225736
+    6: 1
+  }
+  3 {
+    1: "lucky_coin"
+    2: 1
+    3: 195225780
+    6: 1
+  }
+  3 {
+    1: "friendship_essence"
+    2: 1
+    3: 195225776
+    6: 1
+  }
+  3 {
+    1: "star_collection"
+    2: 1
+    3: 15
+    5: 1
+  }
+  3 {
